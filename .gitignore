@@ -1,0 +1,9 @@
+node_modules/
+dist/
+test-results/
+.taste-skill/
+.vercel/
+.env*
+*.log
+.DS_Store
+Thumbs.db
